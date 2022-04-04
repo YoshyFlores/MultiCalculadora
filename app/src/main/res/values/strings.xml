@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MultiCalculadora</string>
+    <string name="calc">Calcular IMC</string>
+    <string name="Fre">Calcular FCmáx</string>
+    <string name="PA">Calcular Presión Arterial Normal</string>
+    <string name="SCP">Calcular Superficie Corporal</string>
+    <string name="SBienv">¡Bienvenido!</string>
+    <string name="Selecciona">Selecciona la calculadora que deseas utilizar:</string>
+    <string name="Bun">¡Bienvenido a tu a tu calculadora de Frecuencia Cardiaca Máxima!</string>
+    <string name="genero">Selecciona tu género</string>
+    <string name="ed">Ingrese su edad</string>
+    <string name="nombre">Hombre</string>
+    <string name="BienMujer">¡Bienvenida!</string>
+    <string name="ing">Ingrese su edad:</string>
+    <string name="BFA">¡Bienvenido a tu calculadora de Presión Arterial Normal!</string>
+
+
+</resources>
